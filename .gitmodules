@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "LncFinder"]
-	path = LncFinder
-	url = https://github.com/cran/LncFinder
 [submodule "TIGERr"]
 	path = TIGERr
 	url = https://github.com/han-siyu/tiger
